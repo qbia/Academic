@@ -1,1 +1,2 @@
-# Academic
+# Qbia
+Centro de Negocios Virtuales
